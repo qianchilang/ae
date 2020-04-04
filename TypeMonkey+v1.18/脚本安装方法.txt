@@ -1,0 +1,22 @@
+﻿【脚本安装】
+
+
+1.复制TypeMonkey.jsxbin和(TypeMonkey_TextMods)和Freebie文件夹到AE脚本目录：
+
+Win：...Adobe After Effects CC\Support Files\Scripts\ScriptUI Panels\
+
+Mac：应用程序\Adobe After Effects CC\Scripts\ScriptUI Panels\
+
+
+2.打开AE软件设置，勾选上*允许脚本读写和访问网络
+
+Win：编辑-首选项-常规
+Mac：After Effects CC-首选项-常规
+
+
+3.在软件顶部window窗口菜单下即可看到TypeMonkey脚本
+
+
+
+
+
